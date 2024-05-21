@@ -1,2 +1,2 @@
-# iCanvas
-Click = A random image! :O
+# iMeme
+Click = A random image! :3
